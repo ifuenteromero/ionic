@@ -1,5 +1,7 @@
 {
   "name": "practica-clase",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
