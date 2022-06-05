@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-builders/custom-webpack": "^13.1.0",
     "@angular/common": "~13.2.2",
     "@angular/core": "~13.2.2",
     "@angular/forms": "~13.2.2",
@@ -28,6 +29,7 @@
     "ethereumjs-util": "^7.1.5",
     "ethereumjs-wallet": "^1.0.2",
     "rxjs": "~6.6.0",
+    "save-dev": "^0.0.1-security",
     "tslib": "^2.2.0",
     "web3": "^1.7.3",
     "zone.js": "~0.11.4"
